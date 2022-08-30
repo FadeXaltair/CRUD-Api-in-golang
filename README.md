@@ -1,1 +1,1 @@
-Here is the CRUD api in golang using gin framework and gorm. 
+Here is the CRUD api in golang using gin framework and gorm. it is a baisc api in go
